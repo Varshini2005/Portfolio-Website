@@ -6,8 +6,10 @@
   gap: 50px;
   margin-right: 80px;
   margin-left: 80px;
+  color:text;
 }
 
 .text {
   flex: 1;
+  
 }

@@ -8,6 +8,7 @@ return(
         <li><a href="#skills">Skills</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#Experience">Experience</a></li>
+        <li><a href="#Blogs">Blogs</a></li>
    
       </ul>
     </nav>
